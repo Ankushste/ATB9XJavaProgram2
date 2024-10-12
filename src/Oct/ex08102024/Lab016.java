@@ -5,9 +5,11 @@ public class Lab016 {
         //Store the value of human age = byte,short,int,long
         int age = 90;
         //maximin human aga = 122
-        byte age = 122;
-        int phone = 9034104848;   // invalid limit crossed
-        long phone = 9034104848l; //valid but have to use (L) at last of number
+        byte nu = 122;
+        int phone = 903410484;   // invalid limit crossed
+        long n = 903104848;
+
+        //valid but have to use (L) at last of number
 
     }
 }
