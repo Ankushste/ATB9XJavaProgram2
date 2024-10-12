@@ -8,7 +8,6 @@ public class Lab015 {
         //how they stored value in memeory?
         short s = 1000;
         int i = 340792;
-        long l = 9034104848L;
         //which data type to use
     }
 }
