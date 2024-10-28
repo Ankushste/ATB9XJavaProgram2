@@ -10,7 +10,7 @@ public class Lab023 {
 
         {
             int sachin = 10; //local variable ->within the curly bracket
-            //if i write the sout commqand within curly bracket same then programe will
+            //if i write the sout command within curly bracket same then programe will run
             System.out.println(sachin);
         }
        // System.out.println(sachin); ->  ,not possible as it is not in same bracket of int sachin = 10

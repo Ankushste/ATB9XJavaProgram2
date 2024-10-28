@@ -9,8 +9,9 @@ public class Lab010 {
 //                structure of  data type
 //                data type variable_name = (assignment operator) variable value
         int age = 65;
-        age = age+5;
+        age = age+15;
         age = 85;
+        //int age = 85; // no we can not reassign the value
 //        variable value can be changed
 //        but reassign can not be possible as we can't write again (int age = 85)
         System.out.println(age);
